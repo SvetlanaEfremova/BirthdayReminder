@@ -1,0 +1,3 @@
+C:/skillbox/task_27_4/task_27_4_1_new(2)/cmake-build-debug/CMakeFiles/task_27_4_1_new_2_.dir
+C:/skillbox/task_27_4/task_27_4_1_new(2)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/skillbox/task_27_4/task_27_4_1_new(2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
