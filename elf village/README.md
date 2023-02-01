@@ -1,0 +1,4 @@
+Wood elves located their village in the forest, right on the trees. The program settles the elves into tree branches, and then counts the total number of neighbors of a certain elf.
+There are five trees in the forest, each of which is generated using random numbers given in the following ranges. Each tree has 3-5 main large branches. On each large branch there are 2-3 more medium branches. Elf houses are built on large and medium branches.
+At the beginning of the program, the user places one elf in each house. This is done using a sequential enumeration of all available houses and a request for the name of the occupied elf through the standard input. If None was entered as the name, then the house is skipped and not occupied by anyone.
+After that, a specific elf is searched for by name. The name of the elf you are looking for is entered via standard input. For the found elf, you need to display the total number of elves living with him on one large branch.

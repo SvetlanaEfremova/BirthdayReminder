@@ -1,0 +1,2 @@
+Tic-tac-toe game.
+Two players take part, they walk in turn and put their symbol - X or O (letters of the Latin alphabet) in the coordinates indicated by them in the standard input. As soon as one of the players has three crosses or three zeros in a row, he wins. If there are no free cells left, and three matching elements are not found, then a draw is declared. Diagonal matches are not considered.
